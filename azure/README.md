@@ -3,9 +3,10 @@
 This package contains configuration files that are required to submit Ghost as a package to the [Azure App Gallery](http://www.microsoft.com/web/gallery/developer.aspx).
 
 The Azure package for Ghost should be:
-
 - Configured optimally for Azure.
 - Secure out-of-the-box.
+
+The last released version is 0.5.3.
 
 ## Getting Started
 
