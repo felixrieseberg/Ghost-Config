@@ -6,7 +6,7 @@ The Azure package for Ghost should be:
 - Configured optimally for Azure.
 - Secure out-of-the-box.
 
-The last released version is 0.5.3.
+The last released version is 0.5.5.
 
 ## Getting Started
 
